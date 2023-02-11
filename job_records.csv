@@ -1,0 +1,25 @@
+﻿Job ID,Date,Customer ID,Type,Financial Terms,Notes
+LPL001,2018-07-03,C022,Project,Flat Rate - $75,Eavestrough Cleaning
+LPL002,2018-07-03,C057,Recurring,"Labour ($21/hr) + Materials, weekly service",General Yard Maintenance
+LPL003,2018-07-03,C050,Recurring,"Flat Rate - $50 per service, once every two weeks",General Yard Maintenance
+LPL004,2018-07-03,C071,Recurring,"Flat Rate - $35 per service, as needed",Lawn Mowing
+LPL005,2018-07-03,C080,Recurring,"Flat Rate - $60 per service, as needed",Lawn Mowing
+LPL006,2018-07-03,C072,Recurring,"Flat Rate - $25 per service, as needed",Lawn Mowing
+LPL007,2018-07-03,C053,Recurring,"Flat Rate - $35 per service, as needed",Lawn Mowing
+LPL008,2018-07-03,C067,Recurring,"Flat Rate - $50 per service, as needed",Lawn Mowing
+LPL009,2018-07-03,C083,Recurring,"Flat Rate - $50 per service, as needed",Lawn Mowing
+LPL010,2018-07-03,C077,Recurring,"Flat Rate - $60 per service, as needed",Lawn Mowing
+LPL011,2018-07-03,C070,Recurring,"Flat Rate - $65 per service + materials, as needed",General Yard Maintenance
+LPL012,2018-07-05,C004,Recurring,"Flat Rate - $30 per service, as needed",Lawn Mowing
+LPL013,2018-07-05,C052,Recurring,"Flat Rate - $35 per service, as needed",Lawn Mowing
+LPL014,2018-07-05,C001,Recurring,"Flat Rate - $20 per service, as needed",Lawn Mowing
+LPL015,2018-07-09,C076,Recurring,"Flat Rate - $45 per service + materials, as needed",Lawn Mowing
+LPL016,2018-07-09,C081,Recurring,"Flat Rate - $50 per service, as needed",Lawn Mowing
+LPL017,2018-07-09,C081,Project,Labour ($23/hr) + Materials,Garden Modification
+LPL018,2018-07-09,C060,Recurring,"Flat Rate - $35 per service, as needed",Lawn Mowing
+LPL019,2018-07-10,C014,Recurring,"Flat Rate - $65 per service + materials, as needed",Lawn Mowing
+LPL020,2018-07-11,C074,Recurring,"Flat Rate - $65 per service + materials, as needed",General Yard Maintenance
+LPL021,2018-07-11,C041,Recurring,"Flat Rate - $50 per service, as needed",Lawn Mowing
+LPL022,2018-07-18,C067,Project,Labour ($21/hr) + Materials,Yard Cleanup
+LPL023,2018-07-19,C023,Project,Labour ($21/hr),Inspection
+LPL024,2018-07-03,C022,Project,Varied labour rates - see email + Materials,Large Yard project
