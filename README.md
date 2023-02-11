@@ -1,5 +1,5 @@
 # lorneparklandscaping
-Creating a SQL database from my old landscaping business's spreadsheets
+### Creating a SQL database to analyze my old landscaping business
 
 
 I was looking for potential data projects and one idea that excited me was to create a "Spotify Wrapped" based on my old lanscaping business data. 
